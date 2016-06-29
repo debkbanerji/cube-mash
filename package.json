@@ -1,0 +1,23 @@
+{
+  "name": "cube-mash",
+  "version": "1.0.0",
+  "description": "Crowd-sourced head to head comparison of popular twisty puzzles",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debkbanerji/cube-mash.git"
+  },
+  "author": "Deb Banerji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/debkbanerji/cube-mash/issues"
+  },
+  "homepage": "https://github.com/debkbanerji/cube-mash#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
