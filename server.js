@@ -4,15 +4,15 @@
 var express = require("express");
 var os = require('os');
 const path = require('path');
-var credentials = require(path.join(__dirname, "credentials.json"));
-var db = credentials.Database;
-console.log("JSON Database: " + db);
+// var credentials = require(path.join(__dirname, "credentials.json"));
+// var db = credentials.Database;
+// console.log("JSON Database: " + db);
 
 var app = express();
 
 var port = process.env.PORT || 3000;
-var database = process.env.DATABASE || db;
-console.log("Database: " + database);
+// var database = process.env.DATABASE || db;
+// console.log("Database: " + database);
 /*
  To set a port other than 3000:
  in Unix:

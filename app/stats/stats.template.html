@@ -1,1 +1,9 @@
-<h2>TODO: Create 'stats' page for puzzle {{$ctrl.puzzleId}}</h2>
+<h1>{{$ctrl.puzzles}}</h1>
+<div class="row">
+    <div class="tool-container col-md-2 col-sm-3 col-xs-6">
+        <div class="container-fluid">
+            <div ng-repeat="puzzle in $ctrl.puzzles"><h3>{{puzzle.name}}</a></h3></div>
+        </div>
+    </div>
+</div>
+<button ng-click="$ctrl.pushData()" >PUSH TEST DATA</button>
