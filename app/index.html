@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" ng-app>
+<html lang="en" ng-app="cubeMashApp">
 <head>
     <meta charset="utf-8">
     <title>CubeMash</title>
@@ -13,11 +13,19 @@
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular-route.min.js"></script>
 
+    <!--main 'app' module-->
+    <script src="app.module.js"></script>
+
+    <!--'about' module-->
+    <script src="about/about.module.js"></script>
+    <script src="about/about.component.js"></script>
+
 
 </head>
 <body>
 
-<p>{{'Cube' + 'Mash'}}</p>
+<h1>CubeMash</h1>
+<about></about>
 
 </body>
 </html>
