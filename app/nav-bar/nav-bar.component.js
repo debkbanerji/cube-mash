@@ -18,13 +18,13 @@ angular.module('navBar').component('navBar', {
 function updateNavBar(location, self) {
     self.path = location.path();
     self.url = location.url();
-    console.log("location: ", location);
-    console.log("url:", self.url);
-    console.log("path:", self.path);
+    // console.log("location: ", location);
+    // console.log("url:", self.url);
+    // console.log("path:", self.path);
     self.mash = /mash$/.test(self.path);
     self.stats = /stats$/.test(self.path);
     self.about = /about$/.test(self.path);
-    console.log(self.mash);
-    console.log(self.stats);
-    console.log(self.about);
+    // console.log(self.mash);
+    // console.log(self.stats);
+    // console.log(self.about);
 }

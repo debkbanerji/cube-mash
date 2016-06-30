@@ -5,7 +5,7 @@
     <!--<base href="/">-->
     <title>CubeMash</title>
 
-    <!--Bootstrap imports-->
+    <!--Bootstrap-->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
@@ -14,9 +14,25 @@
 
     <!--Custom css-->
 
-    <!--AngularJS imports-->
+    <!--AngularJS-->
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular-route.min.js"></script>
+
+    <!-- Firebase -->
+    <script src="https://www.gstatic.com/firebasejs/3.1.0/firebase.js"></script>
+    <script>
+        // Initialize Firebase
+        var config = {
+            apiKey: "AIzaSyDgV_-X6VPM_fb7nr-wjk8AmeyxaMyYWzg",
+            authDomain: "cubemash-a80c9.firebaseapp.com",
+            databaseURL: "https://cubemash-a80c9.firebaseio.com",
+            storageBucket: "cubemash-a80c9.appspot.com"
+        };
+        firebase.initializeApp(config);
+    </script>
+
+    <!-- AngularFire -->
+    <script src="https://cdn.firebase.com/libs/angularfire/2.0.0/angularfire.min.js"></script>
 
     <!--Modules-->
 

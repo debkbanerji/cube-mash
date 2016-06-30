@@ -1,1 +1,1 @@
-angular.module('cubeMashApp', ['ngRoute', 'navBar', 'about', 'faceOff', 'stats', 'selectPuzzleFaceOff', 'selectPuzzleStats']);
+angular.module('cubeMashApp', ['ngRoute', 'firebase', 'navBar', 'about', 'faceOff', 'stats', 'selectPuzzleFaceOff', 'selectPuzzleStats']);
