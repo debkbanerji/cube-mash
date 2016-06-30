@@ -15,9 +15,9 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
-                <li ng-if="location.path() != '/mash'" class="fade-on-hover"><a href="#!/mash">Mash!</a></li>
-                <li ng-if="location.path() != '/stats'" class="fade-on-hover"><a href="#!/stats">Stats</a></li>
-                <li ng-if="location.path() != '/about'" class="fade-on-hover"><a href="#!/about">About</a></li>
+                <li ng-show="!($ctrl.mash)" class="fade-on-hover"><a href="#!/mash">Mash!</a></li>
+                <li ng-show="!($ctrl.stats)" class="fade-on-hover"><a href="#!/stats">Stats</a></li>
+                <li ng-show="!($ctrl.about)" class="fade-on-hover"><a href="#!/about">About</a></li>
             </ul>
         </div><!-- /.navbar-collapse -->
     </div><!-- /.container-fluid -->
