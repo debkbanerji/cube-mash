@@ -1,9 +1,8 @@
-angular.
-module('stats').
-component('stats', {
+angular.module('stats').component('stats', {
     templateUrl: 'stats/stats.template.html',
 
-    controller: function statsController() {
+    controller: ['$routeParams', function statsController($routeParams) {
         var self = this;
-    }
+        self.puzzleId = $routeParams.puzzleId;
+    }]
 });

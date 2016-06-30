@@ -1,7 +1,8 @@
 <!doctype html>
-<html lang="en" ng-app="cubeMashApp">
+<html lang="en" data-ng-app="cubeMashApp">
 <head>
     <meta charset="utf-8">
+    <!--<base href="/">-->
     <title>CubeMash</title>
 
     <!--Bootstrap imports-->
@@ -17,6 +18,8 @@
 
     <!--main 'app' module-->
     <script src="app.module.js"></script>
+    <script src="app.config.js"></script>
+
 
     <!--'about' module-->
     <script src="about/about.module.js"></script>
@@ -42,11 +45,6 @@
 <body>
 
 <h1>CubeMash</h1>
-<about></about>
-<face-off></face-off>
-<stats></stats>
-<select-puzzle-face-off></select-puzzle-face-off>
-<select-puzzle-stats></select-puzzle-stats>
-
+<div data-ng-view></div>
 </body>
 </html>
