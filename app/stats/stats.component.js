@@ -11,13 +11,12 @@ angular.module('stats').component('stats', {
         // putting a console.log here won't work, see below
         self.puzzles = $firebaseArray(ref);
 
-        self.pushData = function pushData() {
-            self.puzzles.$add({
-                name: "Moyu Weilong GTS",
-                wins: 1,
-                losses: 1
-
-            });
-        }
+        // self.pushData = function pushData() {
+        //     self.puzzles.$add({
+        //         name: "Moyu Weilong GTS",
+        //         wins: 0,
+        //         losses: 0
+        //     });
+        // }
     }]
 });
