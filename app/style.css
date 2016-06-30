@@ -11,7 +11,7 @@ h3 {
     font-size: large;
 }
 
-#current-tab {
+.current-tab {
     background-color: #5555ff;
     color: #ffffff;
 }
