@@ -1,1 +1,1 @@
-angular.module('cubeMashApp', ['about', 'selectPuzzleFaceOff', 'selectPuzzleStats']);
+angular.module('cubeMashApp', ['about', 'faceOff', 'selectPuzzleFaceOff', 'selectPuzzleStats']);
