@@ -8,6 +8,14 @@ angular.module('stats').component('stats', {
         // putting a console.log here won't work due to the asynchronous call
         self.puzzles = $firebaseArray(self.puzzlesRef);
 
+        self.puzzles.$loaded()
+            .then(function (x) {
+                console.log("^Calm down Firebase, I'm synchronizing the array.");
+            })
+            .catch(function (error) {
+                console.log("Error:", error);
+            });
+
         self.winRate = function(puzzle) {
             return (100*puzzle.wins/(puzzle.losses+puzzle.wins)||0);
         };
