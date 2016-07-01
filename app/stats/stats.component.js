@@ -8,7 +8,7 @@ angular.module('stats').component('stats', {
         // putting a console.log here won't work due to the asynchronous call
         self.puzzles = $firebaseArray(self.puzzlesRef);
 
-        $scope.winRate = function(puzzle) {
+        self.winRate = function(puzzle) {
             return (100*puzzle.wins/(puzzle.losses+puzzle.wins)||0);
         };
     }]

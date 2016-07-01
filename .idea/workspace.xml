@@ -27,11 +27,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="stats.component.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/stats/stats.component.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="stats.template.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/stats/stats.template.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="221">
+              <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -42,16 +52,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
               <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="stats.component.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/stats/stats.component.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -111,8 +111,8 @@
         <option value="$PROJECT_DIR$/app/face-off/face-off.template.html" />
         <option value="$PROJECT_DIR$/app/style.css" />
         <option value="$PROJECT_DIR$/app/face-off/face-off.component.js" />
-        <option value="$PROJECT_DIR$/app/stats/stats.component.js" />
         <option value="$PROJECT_DIR$/app/stats/stats.template.html" />
+        <option value="$PROJECT_DIR$/app/stats/stats.component.js" />
       </list>
     </option>
   </component>
@@ -273,15 +273,15 @@
       <workItem from="1467257891229" duration="1350000" />
       <workItem from="1467335197495" duration="2559000" />
       <workItem from="1467374023648" duration="3813000" />
-      <workItem from="1467355515372" duration="7109000" />
+      <workItem from="1467355515372" duration="7352000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55302000" />
+    <option name="totallyTimeSpent" value="55545000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="960" y="0" width="960" height="1049" extended-state="0" />
+    <frame x="960" y="0" width="960" height="1049" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22993493" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -645,16 +645,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/stats/stats.component.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+        <state relative-caret-position="68">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/stats/stats.template.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="221">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
           <folding />
         </state>
       </provider>
