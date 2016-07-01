@@ -1,21 +1,7 @@
 <h1 ng-if="$ctrl.puzzle0 == null">Loading...</h1>
 <div class="row">
-    <!--<div class="col-md-4 col-xs-12 " ng-repeat="puzzle in $ctrl.puzzles">-->
-    <!--<div class="container-fluid">-->
-    <!--<div>-->
-    <!--<img ng-src="{{puzzle.url}}">-->
-    <!--<h3>{{puzzle.name}}</h3>-->
-    <!--<h3>Wins: {{puzzle.wins}}</h3>-->
-    <!--<h3>Losses: {{puzzle.losses}}</h3>-->
-    <!--<button ng-click="$ctrl.addWin(puzzle)">ADD WIN</button>-->
-    <!--<button ng-click="$ctrl.addLoss(puzzle)">ADD LOSS</button>-->
-    <!--<br>-->
-    <!--<br>-->
-    <!--</div>-->
-    <!--</div>-->
-    <!--</div>-->
-    <div class="col-md-4 col-xs-12 ">
-        <div class="container-fluid" style="align-content: center">
+    <div class="col-md-4 col-xs-12 " ng-click="$ctrl.click0()">
+        <div class="container-fluid" style="align-content: center"">
                 <img ng-src="{{$ctrl.puzzle0.url}}">
                 <h3>{{$ctrl.puzzle0.name}}</h3>
         </div>
@@ -27,7 +13,7 @@
         </div>
     </div>
 
-    <div class="col-md-4 col-xs-12">
+    <div class="col-md-4 col-xs-12" ng-click="$ctrl.click1()">
         <div class="container-fluid" style="align-content: center">
                 <img ng-src="{{$ctrl.puzzle1.url}}">
                 <h3>{{$ctrl.puzzle1.name}}</h3>

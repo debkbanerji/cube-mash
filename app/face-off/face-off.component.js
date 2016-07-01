@@ -11,27 +11,41 @@ angular.module('faceOff').component('faceOff', {
         self.puzzles.$loaded()
             .then(function (x) {
                 console.log("^Calm down Firebase, I'm synchronizing the array.");
-                self.refreshPuzzles();
-                console.log(self.puzzle0);
-                console.log(self.puzzle1);
+                refreshPuzzle0();
+                refreshPuzzle1();
             })
             .catch(function (error) {
                 console.log("Error:", error);
             });
 
-        self.refreshPuzzles = function () {
+        self.click0 = function () {
+            addWin(self.puzzle0);
+            addLoss(self.puzzle1);
+            refreshPuzzle1()
+        };
+
+        self.click1 = function () {
+            addWin(self.puzzle1);
+            addLoss(self.puzzle0);
+            refreshPuzzle0()
+        };
+
+        refreshPuzzle0 = function () {
             self.puzzle0 = self.puzzles[Math.floor(Math.random() * self.puzzles.length)];
+        };
+
+        refreshPuzzle1 = function () {
             self.puzzle1 = self.puzzles[Math.floor(Math.random() * self.puzzles.length)];
         };
 
-        self.addWin = function (puzzle) {
+        addWin = function (puzzle) {
             var winsRef = self.puzzlesRef.child(puzzle.$id).child("wins");
             winsRef.transaction(function (current_value) {
                 return (current_value || 0) + 1;
             });
         };
 
-        self.addLoss = function (puzzle) {
+        addLoss = function (puzzle) {
             var lossesRef = self.puzzlesRef.child(puzzle.$id).child("losses");
             lossesRef.transaction(function (current_value) {
                 return (current_value || 0) + 1;
