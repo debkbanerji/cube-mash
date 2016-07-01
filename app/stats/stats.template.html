@@ -1,9 +1,23 @@
-<!--<h1>{{$ctrl.puzzles}}</h1>-->
+<!--&lt;!&ndash;<h1>{{$ctrl.puzzles}}</h1>&ndash;&gt;-->
+<!--<div class="row">-->
+    <!--<div class="tool-container col-md-2 col-sm-3 col-xs-6">-->
+        <!--<div class="container-fluid">-->
+            <!--<div ng-repeat="puzzle in $ctrl.puzzles"><h3>{{puzzle.name}} Wins: {{puzzle.wins}} Losses: {{puzzle.losses}}</h3></div>-->
+        <!--</div>-->
+    <!--</div>-->
+<!--</div>-->
+<!--&lt;!&ndash;<button ng-click="$ctrl.pushData()" >PUSH TEST DATA</button>&ndash;&gt;-->
+<h1 ng-if="$ctrl.puzzles.length == 0">Loading...</h1>
 <div class="row">
     <div class="tool-container col-md-2 col-sm-3 col-xs-6">
         <div class="container-fluid">
-            <div ng-repeat="puzzle in $ctrl.puzzles"><h3>{{puzzle.name}} Wins: {{puzzle.wins}} Losses: {{puzzle.losses}}</h3></div>
+            <div ng-repeat="puzzle in $ctrl.puzzles| orderBy : '-wins/(losses||0.00000001)'">
+                <img ng-src="{{puzzle.url}}">
+                <h3>{{puzzle.name}}</h3>
+                <h3>Wins: {{puzzle.wins}}</h3>
+                <h3>Losses: {{puzzle.losses}}</h3>
+                <h3>Win/loss ratio: {{(puzzle.wins/(puzzle.losses||0.0000000))||0}}</h3>
+            </div>
         </div>
     </div>
 </div>
-<!--<button ng-click="$ctrl.pushData()" >PUSH TEST DATA</button>-->
