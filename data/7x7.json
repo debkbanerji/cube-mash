@@ -1,39 +1,46 @@
-
+{
  "7x7": [
   {
-   "url": "https://thecubicle.us/images/moyuaofu7x7gtbtn1.jpg",
+   "thumb_url": "https://thecubicle.us/images/moyuaofu7x7gtbtn1.jpg",
    "name": "MoYu Cubic AoFu 7x7 GT",
    "wins": 0,
-   "losses": 0
+   "losses": 0,
+   "image_url": "https://thecubicle.us/images/moyuaofu7x7gtb1.jpg"
   },
   {
-   "url": "https://thecubicle.us/images/moyuaofu7x7btn1.jpg",
+   "thumb_url": "https://thecubicle.us/images/moyuaofu7x7btn1.jpg",
    "name": "MoYu AoFu 7x7",
    "wins": 0,
-   "losses": 0
+   "losses": 0,
+   "image_url": "https://thecubicle.us/images/moyuaofu7x7b1.jpg"
   },
   {
-   "url": "https://thecubicle.us/images/lanlan7x7wtn1.jpg",
+   "thumb_url": "https://thecubicle.us/images/lanlan7x7wtn1.jpg",
    "name": "LanLan 7x7",
    "wins": 0,
-   "losses": 0
+   "losses": 0,
+   "image_url": "https://thecubicle.us/images/lanlan7x7b1.jpg"
   },
   {
-   "url": "https://thecubicle.us/images/thumbnail7.jpg",
+   "thumb_url": "https://thecubicle.us/images/thumbnail7.jpg",
    "name": "ShengShou 7x7",
    "wins": 0,
-   "losses": 0
+   "losses": 0,
+   "image_url": "https://thecubicle.us/images/7x710Small_wm.JPG"
   },
   {
-   "url": "https://thecubicle.us/images/ss7x7miniwtn1.jpg",
+   "thumb_url": "https://thecubicle.us/images/ss7x7miniwtn1.jpg",
    "name": "ShengShou 7x7 Mini (69.6mm)",
    "wins": 0,
-   "losses": 0
+   "losses": 0,
+   "image_url": "https://thecubicle.us/images/ss7x7miniw1.jpg"
   },
   {
-   "url": "https://thecubicle.us/images/7x7yjwtn1.jpg",
+   "thumb_url": "https://thecubicle.us/images/7x7yjwtn1.jpg",
    "name": "YJ 7x7",
    "wins": 0,
-   "losses": 0
+   "losses": 0,
+   "image_url": "https://thecubicle.us/images/7x7yjb1.jpg"
   }
  ]
+}

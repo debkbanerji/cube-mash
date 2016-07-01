@@ -11,5 +11,6 @@
     <orderEntry type="library" name="angular" level="application" />
     <orderEntry type="library" name="angularfire" level="application" />
     <orderEntry type="library" name="firebase" level="application" />
+    <orderEntry type="library" name="cube-mash node_modules" level="project" />
   </component>
 </module>

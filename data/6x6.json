@@ -1,27 +1,32 @@
-
+{
  "6x6": [
   {
-   "url": "https://thecubicle.us/images/yuxinred6x6btn11.jpg",
+   "thumb_url": "https://thecubicle.us/images/yuxinred6x6btn11.jpg",
    "name": "YuXin Red 6x6",
    "wins": 0,
-   "losses": 0
+   "losses": 0,
+   "image_url": "https://thecubicle.us/images/yuxinred6x6b11.jpg"
   },
   {
-   "url": "https://thecubicle.us/images/moyuaoshi6x6btn1.jpg",
+   "thumb_url": "https://thecubicle.us/images/moyuaoshi6x6btn1.jpg",
    "name": "MoYu AoShi 6x6",
    "wins": 0,
-   "losses": 0
+   "losses": 0,
+   "image_url": "https://thecubicle.us/images/moyuaoshi6x6b1.jpg"
   },
   {
-   "url": "https://thecubicle.us/images/thumbnail2.jpg",
+   "thumb_url": "https://thecubicle.us/images/thumbnail2.jpg",
    "name": "ShengShou 6x6",
    "wins": 0,
-   "losses": 0
+   "losses": 0,
+   "image_url": "https://thecubicle.us/images/IMG_4935.JPG"
   },
   {
-   "url": "https://thecubicle.us/images/6x6yjbtn1.jpg",
+   "thumb_url": "https://thecubicle.us/images/6x6yjbtn1.jpg",
    "name": "YJ 6x6",
    "wins": 0,
-   "losses": 0
+   "losses": 0,
+   "image_url": "https://thecubicle.us/images/6x6yjb1.jpg"
   }
  ]
+}

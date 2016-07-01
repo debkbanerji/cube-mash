@@ -3,7 +3,7 @@
     <div class="col-md-2 col-sm-3 col-xs-6" ng-repeat="puzzle in $ctrl.puzzles| orderBy : [$ctrl.winRate, 'wins'] : true">
         <div class="container-fluid">
             <div>
-                <img ng-src="{{puzzle.url}}">
+                <img ng-src="{{puzzle.thumb_url}}">
                 <h4>{{puzzle.name}}</h4>
                 <h4>Wins: {{puzzle.wins}}</h4>
                 <h4>Losses: {{puzzle.losses}}</h4>
