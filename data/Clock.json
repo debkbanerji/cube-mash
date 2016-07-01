@@ -1,0 +1,21 @@
+
+ "Clock": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Rubiks-clock.jpg",
+   "name": "Rubik's Brand Clock",
+   "wins": 0,
+   "losses": 0
+  },
+  {
+   "url": "https://thecubicle.us/images/magicclocktn1.jpg",
+   "name": "LingAo Magic Clock Puzzle",
+   "wins": 0,
+   "losses": 0
+  },
+  {
+   "url": "https://thecubicle.us/images/baitaiclockbtn1.jpg",
+   "name": "BaiTai Magic Clock Puzzle",
+   "wins": 0,
+   "losses": 0
+  }
+ ]

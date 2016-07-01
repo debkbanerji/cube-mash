@@ -1,0 +1,1386 @@
+{
+  "puzzles": {
+    "3x3": [
+      {
+        "url": "https://thecubicle.us/images/yuxin3x3waterbtn1.jpg",
+        "name": "YuXin Water",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/guoguanyuexiaobtn1.jpg",
+        "name": "GuoGuan YueXiao",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/kungfuqinghongbtn2.jpg",
+        "name": "KungFu QingHong 3x3",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/zmetalcubebtn1.jpg",
+        "name": "Z Metal Cube",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/qjcandy3x3btn11.jpg",
+        "name": "QJ Candy 3x3",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/newislandprofessional3x3btn11.jpg",
+        "name": "Newisland Lightning V2",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/moyuweilonggtsbtn1.jpg",
+        "name": "MoYu WeiLong GTS",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/gans356sv2masterbtn1.jpg",
+        "name": "Gans 356S V2 (Master)",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/yuxin3x3pillowedbtn1.jpg",
+        "name": "YuXin Pillowed 3x3",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/yuxin3x3keychainbtn1.jpg",
+        "name": "YuXin Mini 3x3 Keychain Cube",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/ss3x3legendbtn1.jpg",
+        "name": "ShengShou Legend 3x3",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/xmantornadobtn1.jpg",
+        "name": "X-Man Tornado",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/gans356sv2standardbtn1.jpg",
+        "name": "Gans 356S V2",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/gans356sv2btn1.jpg",
+        "name": "Gans 356S V2 (Advanced)",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/yuxin880cubebtn1.jpg",
+        "name": "YuXin Super Big 3x3 (8.8cm)",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/moyuaolonggtbtn1.jpg",
+        "name": "MoYu AoLong GT",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/fanxin3x3btn1.jpg",
+        "name": "FanXin 3x3",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/yjsulongbtn1.jpg",
+        "name": "YJ SuLong",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/yjguanlongbtn1.jpg",
+        "name": "YJ GuanLong",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/fangshijieyun546btn1.jpg",
+        "name": "Mini FangShi JieYun (54.6mm)",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/moyutanglongbtn1.jpg",
+        "name": "MoYu TangLong",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/yuxin3x3firebtn1.jpg",
+        "name": "YuXin Fire",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/fangshijieyunbtn1.jpg",
+        "name": "FangShi JieYun",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/yjlovecubebtn1.jpg",
+        "name": "YJ Love Cube",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/qiyi3x3sailbtn1.jpg",
+        "name": "QiYi Sail 3x3",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/fangcunfreshmanbtn1.jpg",
+        "name": "FangCun Freshman Cube",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/maruxdcubebtn1.jpg",
+        "name": "Maru XD Cube",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/moyuhualongbtn1.jpg",
+        "name": "MoYu HuaLong",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/yjdiamond3x3btn1.jpg",
+        "name": "YJ Diamond Cube",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/gans56btn2.jpg",
+        "name": "Gans 356S",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/yangcongmeiyingbtn1.jpg",
+        "name": "Cong's Design MeiYing",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/moyuaolongv2btn1.jpg",
+        "name": "MoYu AoLong V2",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/qiyithunderbtn1.jpg",
+        "name": "QiYi Thunderclap 3x3",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/fangshiguangyingbtn1.jpg",
+        "name": "FangShi GuangYing",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/shengshourainbow3x3btn1.jpg",
+        "name": "ShengShou Rainbow 3x3",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/qiyidimensionbtn1.jpg",
+        "name": "QiYi Dimension 3x3",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/qiyimofanggebtn1.jpg",
+        "name": "QiYi Bullfight 3x3",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/marucx3sbtn1.jpg",
+        "name": "Mini Maru CX3S (56mm)",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/diansheng55mmbtn1.jpg",
+        "name": "DianSheng 3x3 (55mm)",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/cycloneboys3x3yunbtn1.jpg",
+        "name": "Cyclone Boys 3x3 Jisuzhiyun (57mm)",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/moyuyueyingbtn1.jpg",
+        "name": "Cong's Design YueYing",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/yuxin3x3btn1.jpg",
+        "name": "YuXin 3x3",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/moyuweilongv2btn2.jpg",
+        "name": "MoYu WeiLong V2",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/maru4colorcubebtn1.jpg",
+        "name": "Maru 3x3 (Special Patterns)",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/qiyiwarriorbtn1.jpg",
+        "name": "QiYi Warrior 3x3",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/dianshengmini3x3wtn1.jpg",
+        "name": "DianSheng Mini 3x3 (30mm)",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/heshu18cm3x3sltn1.jpg",
+        "name": "HeShu Super Big 3x3 (18cm)",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/zconcavecubetn1.jpg",
+        "name": "Z Concave 3x3",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/moyuaolongminibtn1.jpg",
+        "name": "Mini MoYu AoLong (54.5mm)",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/cycloneboys57btn1.jpg",
+        "name": "Cyclone Boys 3x3 XuanFeng (57mm)",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/moyudianmabtn1.jpg",
+        "name": "MoYu DianMa",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/yjlingganwtn1.jpg",
+        "name": "YJ LingGan",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/dssuperbig3x3wtn1.jpg",
+        "name": "DianSheng Super Big 3x3 (13cm)",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/gans57btn1.jpg",
+        "name": "Gans 357",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/moyuliyingbtn1.jpg",
+        "name": "MoYu LiYing",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/wityouv2btn1.jpg",
+        "name": "Type C V WitYou V2",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/qiyi3x3minisltn1.jpg",
+        "name": "Mini QiYi 3x3 42mm",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/weilong54btn1.jpg",
+        "name": "Mini MoYu WeiLong V2 (54.5mm)",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/yjyulongslbtn1.jpg",
+        "name": "YJ YuLong",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/dayantaiyangtn1.jpg",
+        "name": "DaYan TaiYan",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/cycloneboys56sltn1.jpg",
+        "name": "Cyclone Boys 3x3 FeiWu (56mm)",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/sslinglongbtn1.jpg",
+        "name": "ShengShou 3x3 Mini (46mm)",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/ganIIIv2wtn1.jpg",
+        "name": "Ganspuzzle III V2",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/maruminikeychainbwtn1.jpg",
+        "name": "Maru Mini 3x3 Keychain Cube",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/maruminibwtn1.jpg",
+        "name": "Maru Mini 3x3 (30mm)",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/yjchilongprimarytn1.jpg",
+        "name": "YJ ChiLong",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/marucx3btn1.jpg",
+        "name": "Maru CX3",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/typecminibtn1.jpg",
+        "name": "Type C Mini 3x3 (30mm)",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/typecminikeychainwtn1.jpg",
+        "name": "Type C Mini 3x3 Keychain Cube",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/ganIIIbtn1.jpg",
+        "name": "Ganspuzzle III",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/fangshiv2primarytn1.jpg",
+        "name": "FangShi ShuangRen V2",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/mf8legendv2wtn1.jpg",
+        "name": "MF8 Legend V2",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/moyuweilongwtn1.jpg",
+        "name": "MoYu WeiLong",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/ss3x3aurorabtn1.jpg",
+        "name": "ShengShou Aurora 3x3",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/qj3x3pillowbwtn1.jpg",
+        "name": "QJ Pillowed 3x3",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/fangshi54primarytn1.jpg",
+        "name": "Mini FangShi ShuangRen (54.6mm)",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/zhanchidiy42mmsltn1.jpg",
+        "name": "Mini DaYan ZhanChi 42mm",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/lingyunv2bwtn1.jpg",
+        "name": "DaYan LingYun V2",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/fangcunbwtn1.jpg",
+        "name": "FangCun 3x3",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/ghv1atn1.jpg",
+        "name": "DaYan GuHong",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/zhanchiatn1_wm.jpg",
+        "name": "DaYan ZhanChi",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/zhanchi50mmbtn1.jpg",
+        "name": "Mini DaYan ZhanChi 50mm",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/lunhuibwtn1.jpg",
+        "name": "DaYan LunHui",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/zhanchi55mmwtn1.jpg",
+        "name": "Mini DaYan ZhanChi 55mm",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/ss3x3windbwtn1.jpg",
+        "name": "ShengShou Wind 3x3",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/witlongatn1.jpg",
+        "name": "Type C IV WitLong",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/moyuhuanyingbtn2.jpg",
+        "name": "MoYu HuanYing",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/newislandlightningbtn1.jpg",
+        "name": "Newisland Lightning",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/newislandphoenixbtn1.jpg",
+        "name": "Newisland Phoenix",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/formulacubebtn1.jpg",
+        "name": "Formula Cube 3x3",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/rephaelcubebtn1.jpg",
+        "name": "Rephael 3x3",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/cycloneboys57jisuzhifengsltn1.jpg",
+        "name": "Cyclone Boys 3x3 Jisuzhifeng (57mm)",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/dsmetalcubetn1.jpg",
+        "name": "DianSheng 3x3 Metal Cube",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/z3x3transtn1.jpg",
+        "name": "Z 3x3",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/moyuaolongbtn1.jpg",
+        "name": "MoYu AoLong",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/cycloneboys56feihongwtn1.jpg",
+        "name": "Cyclone Boys 3x3 FeiHong (55mm)",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/cycloneboys56feixuanwtn1.jpg",
+        "name": "Cyclone Boys 3x3 FeiXuan (56mm)",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/zhichen3x3sltn1.jpg",
+        "name": "ZhiChen 3x3",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/qiyi3x3sltn1.jpg",
+        "name": "QiYi 3x3",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/ds3x3sltn1.jpg",
+        "name": "DianSheng 3x3",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/alphacc3btn1.jpg",
+        "name": "Alpha CC3",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/fangshibtn1.jpg",
+        "name": "FangShi ShuangRen",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/wityoutn1.jpg",
+        "name": "Type C V WitYou",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/alphavwtn1.jpg",
+        "name": "Alpha V",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/t1.jpg",
+        "name": "F II",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/panshibwtn1.jpg",
+        "name": "DaYan PanShi",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/alphacc1btn1.jpg",
+        "name": "Alpha CC1",
+        "wins": 0,
+        "losses": 0
+      }
+    ],
+
+    "2x2": [
+      {
+        "url": "https://thecubicle.us/images/kungfuyuehunbtn1.jpg",
+        "name": "KungFu YueHun 2x2",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/moyuweipo2x2btn1.jpg",
+        "name": "MoYu WeiPo 2x2",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/qiyi2x2cavsbtn1.jpg",
+        "name": "QiYi Cavs 2x2",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/yjyupobtn1.jpg",
+        "name": "YJ YuPo 2x2",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/yjguanpobtn1.jpg",
+        "name": "YJ GuanPo 2x2",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/moyutangpobtn1.jpg",
+        "name": "MoYu TangPo 2x2",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/cycloneboys2x2btn2.jpg",
+        "name": "Cyclone Boys 2x2",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/yuxin2x2btn1.jpg",
+        "name": "YuXin 2x2",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/yj2x2btn1.jpg",
+        "name": "YJ 2x2",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/fangshixingyu2x2btn1.jpg",
+        "name": "FangShi XingYu 2x2 50mm",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/moyulingpotn2.jpg",
+        "name": "MoYu LingPo 2x2",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/ss2x2aurorabtn1.jpg",
+        "name": "ShengShou Aurora 2x2",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/fangshi2x255btn1.jpg",
+        "name": "FangShi ShiShuang 2x2 55mm",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/fangshi2x2btn1.jpg",
+        "name": "FangShi ShiShuang 2x2 50mm (Tiled)",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/maru2x2bwtn1.jpg",
+        "name": "Maru 2x2",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/qiyi2x2sltn1.jpg",
+        "name": "QiYi 2x2",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/ss2x2btn1.jpg",
+        "name": "ShengShou 2x2",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/wittwoatn1.jpg",
+        "name": "Type C WitTwo 2x2",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/ll2atn1.jpg",
+        "name": "LanLan 2x2",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/dayan2x250tn1.jpg",
+        "name": "DaYan 2x2 50mm",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/dayan2x246tn1.jpg",
+        "name": "DaYan 2x2 46mm",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/wittwov2bwtn1.jpg",
+        "name": "Type C WitTwo 2x2 V2",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/xm2x2keychainbtn1.jpg",
+        "name": "XM Mini 2x2 Keychain Cube",
+        "wins": 0,
+        "losses": 0
+      }
+    ],
+
+    "4x4": [
+      {
+        "url": "https://thecubicle.us/images/kungfujueque4x4btn1.jpg",
+        "name": "KungFu JuQue 4x4",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/kungfucangfengbtn1.jpg",
+        "name": "KungFu CangFeng 4x4",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/yuxinblue4x4btn11.jpg",
+        "name": "YuXin Blue 4x4",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/yjyusurbtn1.jpg",
+        "name": "YJ YuSu R 4x4",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/yangcong4x4meiyubtn1.jpg",
+        "name": "Cong's Design MeiYu 4x4",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/qiyi4x4cloudbtn2.jpg",
+        "name": "QiYi Storm 4x4",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/yjguansupretn1.jpg",
+        "name": "YJ GuanSu 4x4",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/yuxin4x4lionbtn1.jpg",
+        "name": "YuXin Lion 4x4",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/cycloneboysg4btn1.jpg",
+        "name": "Cyclone Boys 4x4 G4",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/yjyusubtn1.jpg",
+        "name": "YJ YuSu 4x4",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/qiyiqihangbtn1.jpg",
+        "name": "QiYi Sail 4x4",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/yuxin4x4btn1.jpg",
+        "name": "YuXin 4x4",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/moyuaosu60btn1.jpg",
+        "name": "Mini MoYu AoSu 4x4 (60mm)",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/moyuaosubtn1.jpg",
+        "name": "MoYu AoSu 4x4",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/cycloneboys4x4sltn1.jpg",
+        "name": "Cyclone Boys 4x4",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/maru4x4bwtn1.jpg",
+        "name": "Maru 4x4",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/moyuweisu4x4btn1.jpg",
+        "name": "MoYu WeiSu 4x4",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/ds4x4sltn1.jpg",
+        "name": "DianSheng 4x4",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/dayanmf84x4v2btn1.jpg",
+        "name": "Dayan + MF8 4x4 V2 66mm",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/dayanmf84x4v1wtn1.jpg",
+        "name": "DaYan + MF8 4x4 V1 66mm",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/witfourbtn1.jpg",
+        "name": "Type C WitFour 4x4",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/ss4x4v5tn1.jpg",
+        "name": "ShengShou 4x4 V5",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/maru4x4v2btn2.jpg",
+        "name": "Maru 4x4 V2",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/Untitled-5.jpg",
+        "name": "LanLan 4x4",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/dayanmf84x4v3bwtn1.jpg",
+        "name": "DaYan + MF8 4x4 V3",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/mini4x4bwtn1.jpg",
+        "name": "Type C Mini 4x4 (46mm)",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/qj4x4pillowtn1.jpg",
+        "name": "QJ Pillowed 4x4",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/mofangge4x4slntn1.jpg",
+        "name": "QiYi 4x4",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/yjshenshuwtn1.jpg",
+        "name": "YJ ShenSu 4x4",
+        "wins": 0,
+        "losses": 0
+      }
+    ],
+
+    "5x5": [
+      {
+        "url": "https://thecubicle.us/images/ss5x5aurorabtn1.jpg",
+        "name": "ShengShou Aurora 5x5",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/ssmini5x5btn1.jpg",
+        "name": "ShengShou 5x5 Mini (57mm)",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/qiyi5x5btn10.jpg",
+        "name": "QiYi 5x5",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/yjyuchuang5x5pretn1.jpg",
+        "name": "YJ YuChuang 5x5",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/moyubochuangbtn1.jpg",
+        "name": "MoYu BoChuang 5x5 GT",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/ss5x5firebtn1.jpg",
+        "name": "ShengShou Wind 5x5",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/yuxin5x5btn1.jpg",
+        "name": "YuXin 5x5",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/cycloneboys5x5btn1.jpg",
+        "name": "Cyclone Boys 5x5",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/moyuhuachuangbtn1.jpg",
+        "name": "MoYu HuaChuang 5x5",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/moyuaochuang5x5btn1.jpg",
+        "name": "MoYu AoChuang 5x5",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/qj5x5pillowbtn1.jpg",
+        "name": "QJ Pillowed 5x5",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/maru5x5bwtn1.jpg",
+        "name": "Maru 5x5",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/ds5x5sltn1.jpg",
+        "name": "DianSheng 5x5",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/lanlan5x5btn1.jpg",
+        "name": "LanLan 5x5",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/icon2.jpg",
+        "name": "ShengShou 5x5",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/5x5yj65mmwtn1.jpg",
+        "name": "YJ 5x5",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/5x5yj60mmbtn1.jpg",
+        "name": "YJ 5x5 Mini (60mm)",
+        "wins": 0,
+        "losses": 0
+      }
+    ],
+
+    "6x6": [
+      {
+        "url": "https://thecubicle.us/images/yuxinred6x6btn11.jpg",
+        "name": "YuXin Red 6x6",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/moyuaoshi6x6btn1.jpg",
+        "name": "MoYu AoShi 6x6",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/thumbnail2.jpg",
+        "name": "ShengShou 6x6",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/6x6yjbtn1.jpg",
+        "name": "YJ 6x6",
+        "wins": 0,
+        "losses": 0
+      }
+    ],
+
+    "7x7": [
+      {
+        "url": "https://thecubicle.us/images/moyuaofu7x7gtbtn1.jpg",
+        "name": "MoYu Cubic AoFu 7x7 GT",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/moyuaofu7x7btn1.jpg",
+        "name": "MoYu AoFu 7x7",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/lanlan7x7wtn1.jpg",
+        "name": "LanLan 7x7",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/thumbnail7.jpg",
+        "name": "ShengShou 7x7",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/ss7x7miniwtn1.jpg",
+        "name": "ShengShou 7x7 Mini (69.6mm)",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/7x7yjwtn1.jpg",
+        "name": "YJ 7x7",
+        "wins": 0,
+        "losses": 0
+      }
+    ],
+
+    "Megaminx": [
+      {
+        "url": "https://thecubicle.us/images/yjyuhurmegaminxbtn1.jpg",
+        "name": "YJ YuHu R Megaminx",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/ssauroramegaminxbtn1.jpg",
+        "name": "ShengShou Aurora Megaminx",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/yjmegaminxbtn1.jpg",
+        "name": "YJ YuHu Megaminx",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/meffertsmegaminxbtn1.jpg",
+        "name": "Meffert's Megaminx",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/qjmegaminxv2tiledbtn1.jpg",
+        "name": "QJ Megaminx V2 (Tiled)",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/mf8bigmegaminxbtn1.jpg",
+        "name": "mf8 Big Megaminx (9cm)",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/dayanmmrbtn1.jpg",
+        "name": "DaYan Megaminx I (Ridged)",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/dayanmmsltn1.jpg",
+        "name": "DaYan Megaminx I",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/Untitled-4.jpg",
+        "name": "QJ Megaminx V2",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/mf8megaminxv3tiledbtn1.jpg",
+        "name": "MF8 Megaminx V3 (Tiled)",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/mf8megaminxv3btn1.jpg",
+        "name": "MF8 Megaminx V3",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/ssmegaminxbtn1.jpg",
+        "name": "ShengShou Megaminx",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/traiphummegaminxball1colorbtn1.jpg",
+        "name": "Traiphum Megaminx Ball Unstickered",
+        "wins": 0,
+        "losses": 0
+      }
+    ],
+
+    "Pyraminx": [
+      {
+        "url": "https://thecubicle.us/images/zpyraminxbtn1.jpg",
+        "name": "Z Pyraminx",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/qjpyraminxtiledbtn1.jpg",
+        "name": "QJ Pyraminx (Tiled)",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/cbpyraminxbtn1.jpg",
+        "name": "Cyclone Boys Pyraminx",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/fanxinpyraminxbtn1.jpg",
+        "name": "FanXin Pyraminx",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/qiyipyraminxbtn1.jpg",
+        "name": "QiYi Pyraminx",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/dayanpyraminxbtn1.jpg",
+        "name": "DaYan Pyraminx",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/moyupyraminxbtn1.jpg",
+        "name": "MoYu Pyraminx",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/sspyratn1.jpg",
+        "name": "ShengShou Pyraminx",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/qjpyraminxbwtn1.jpg",
+        "name": "QJ Pyraminx",
+        "wins": 0,
+        "losses": 0
+      }
+    ],
+
+    "Square-1": [
+      {
+        "url": "https://thecubicle.us/images/fanxinsquare1btn2.jpg",
+        "name": "FanXin Square-1",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/qiyisquare1btn1.jpg",
+        "name": "QiYi Square-1",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/shengshousquare1btn1.jpg",
+        "name": "ShengShou Square-1",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/calvinsquare1bwtn1.jpg",
+        "name": "Calvin's Square-1",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/cubetwistsquare1wtn1.jpg",
+        "name": "CubeTwist Square-1",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/mf8square1wtn1.jpg",
+        "name": "MF8 Square-1 V2",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/guojiasquare1btn1.jpg",
+        "name": "GuoJia Square-1",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/mf8supersquare1btn1.jpg",
+        "name": "MF8 Super Square-1",
+        "wins": 0,
+        "losses": 0
+      }
+    ],
+
+    "Skewb": [
+      {
+        "url": "https://thecubicle.us/images/fanxinskewbbtn1.jpg",
+        "name": "FanXin Skewb",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/qiyiskewbbtn1.jpg",
+        "name": "QiYi Skewb",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/moyuskewbbtn1.jpg",
+        "name": "MoYu Skewb",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/ssskewbbtn1.jpg",
+        "name": "ShengShou Skewb",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/qjskewbtn1.jpg",
+        "name": "QJ Skewb",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/lanlanskewbwtn1.jpg",
+        "name": "LanLan Skewb",
+        "wins": 0,
+        "losses": 0
+      }
+    ],
+
+    "Clock": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Rubiks-clock.jpg",
+        "name": "Rubik's Brand Clock",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/magicclocktn1.jpg",
+        "name": "LingAo Magic Clock Puzzle",
+        "wins": 0,
+        "losses": 0
+      },
+      {
+        "url": "https://thecubicle.us/images/baitaiclockbtn1.jpg",
+        "name": "BaiTai Magic Clock Puzzle",
+        "wins": 0,
+        "losses": 0
+      }
+    ]
+  }
+}
