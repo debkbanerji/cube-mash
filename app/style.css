@@ -1,5 +1,5 @@
 p, a, h1, h2, h3 {
-    font-family: "Courier New", sans-serif;
+    font-family: "Verdana", sans-serif;
 }
 
 h1, h2, h3 {
@@ -49,16 +49,3 @@ h3 {
 .dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
     background-color: #bbbbff;
 }
-
-.carousel-indicators li {
-    background-color: transparent;
-    /*background-color: #ffbbbb;*/
-    border-width: 0;
-}
-
-.carousel-indicators .active {
-    background-color: transparent;
-    /*background-color: #ff5555;*/
-    border-width: 0;
-}
-
