@@ -1,27 +1,42 @@
 <h1 ng-if="$ctrl.puzzle0 == null">Loading...</h1>
 <div ng-if="$ctrl.puzzle0 != null" class="row">
-    <div class="col-md-4 col-xs-12 " ng-click="$ctrl.click0()">
-        <div class="container-fluid btn btn-raised btn-block" style="align-content: center; width: 100%; white-space: normal">
-            <h2>{{$ctrl.puzzle0.name}}</h2>
-                <img id="image0" ng-src="{{$ctrl.puzzle0.image_url}}" class="img-responsive"  width="100%">
+    <div class="col-sm-4 col-xs-12 ">
+        <div class="container-fluid btn btn-raised btn-block"
+             ng-click="$ctrl.click0()"
+             style="align-content: center; width: 100%; white-space: normal">
+            <div class="panel-heading">
+                <h2>{{$ctrl.puzzle0.name}}</h2>
+            </div>
+            <img id="image0"
+                 ng-src="{{$ctrl.puzzle0.image_url}}"
+                 class="img-responsive img-rounded"
+                 width="100%">
         </div>
     </div>
 
-    <div class="col-md-4 col-xs-12" ng-if="$ctrl.puzzle0 != null">
+    <div class="col-sm-4 col-xs-12" ng-if="$ctrl.puzzle0 != null">
         <div class="container-fluid" style="text-align: center">
             <h1 id="versus">Versus</h1>
         </div>
     </div>
 
-    <div class="col-md-4 col-xs-12" ng-click="$ctrl.click1()">
-        <div class="container-fluid btn btn-raised btn-block" style="align-content: center; width: 100%; white-space: normal">
+    <div class="col-sm-4 col-xs-12">
+        <div class="container-fluid btn btn-raised btn-block"
+             ng-click="$ctrl.click1()"
+             style="align-content: center; width: 100%; white-space: normal">
             <h2>{{$ctrl.puzzle1.name}}</h2>
-                <img id="image1" ng-src="{{$ctrl.puzzle1.image_url}}" class="img-responsive"  width="100%">
+            <img id="image1"
+                 ng-src="{{$ctrl.puzzle1.image_url}}"
+                 class="img-responsive img-rounded"
+                 width="100%">
         </div>
     </div>
 </div>
 <div class="row" ng-if="$ctrl.puzzle0 != null">
     <div class="container-fluid" style="text-align: center">
-        <a class="btn btn-raised btn-lg" ng-click="$ctrl.skip()"><h2>Skip</h2></a>
+        <a class="btn btn-raised btn-lg"
+           ng-click="$ctrl.skip()">
+            <h2>Skip</h2>
+        </a>
     </div>
 </div>

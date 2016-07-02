@@ -10,7 +10,7 @@ angular.module('stats').component('stats', {
 
         self.puzzles.$loaded()
             .then(function (x) {
-                console.log("^Calm down Firebase, I'm synchronizing the array.");
+                console.log("^Note: This is not an issue, since the array is synchronized");
             })
             .catch(function (error) {
                 console.log("Error:", error);

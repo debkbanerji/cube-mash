@@ -1,9 +1,12 @@
 <h1 ng-if="$ctrl.puzzles.length == 0">Loading...</h1>
 <div class="row">
-    <div class="col-md-2 col-sm-3 col-xs-6" ng-repeat="puzzle in $ctrl.puzzles| orderBy : [$ctrl.winRate, 'wins', '-losses'] : true">
+    <div class="col-md-2 col-sm-3 col-xs-6"
+         ng-repeat="puzzle in $ctrl.puzzles| orderBy : [$ctrl.winRate, 'wins', '-losses'] : true">
         <div class="container-fluid">
             <div>
-                <img ng-src="{{puzzle.thumb_url}}" class="img-responsive"  width="100%">
+                <img ng-src="{{puzzle.thumb_url}}"
+                     class="img-responsive"
+                     width="100%">
                 <h4>{{puzzle.name}}</h4>
                 <h4>Wins: {{puzzle.wins}}</h4>
                 <h4>Losses: {{puzzle.losses}}</h4>

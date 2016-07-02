@@ -1,0 +1,29 @@
+{
+  "rules": {
+    "puzzles": {
+      "$category": {
+        ".read": "true",
+        ".write": "false",
+        "$puzzle": {
+          "thumb_url": {
+            ".validate": "newData.isString()"
+          },
+          "name": {
+            ".validate": "newData.isString()"
+          },
+          "image_url": {
+            ".validate": "newData.isString()"
+          },
+          "wins": {
+            ".write": "true",
+            ".validate": "newData.isNumber()"
+          },
+          "losses": {
+            ".write": "true",
+            ".validate": "newData.isNumber()"
+          }
+        }
+      }
+    }
+  }
+}
