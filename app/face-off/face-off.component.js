@@ -30,11 +30,18 @@ angular.module('faceOff').component('faceOff', {
             refreshPuzzle0()
         };
 
+        self.skip = function () {
+            refreshPuzzle0();
+            refreshPuzzle1();
+        }
+
         refreshPuzzle0 = function () {
+            document.getElementById("image0").src = "";
             self.puzzle0 = self.puzzles[Math.floor(Math.random() * self.puzzles.length)];
         };
 
         refreshPuzzle1 = function () {
+            document.getElementById("image1").src = "";
             self.puzzle1 = self.puzzles[Math.floor(Math.random() * self.puzzles.length)];
         };
 
