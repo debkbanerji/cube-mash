@@ -3,11 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="86e5681b-56d4-4d1b-af6e-efecb1f7aa1d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/CSS/style.css" afterPath="$PROJECT_DIR$/app/CSS/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/face-off/face-off.template.html" afterPath="$PROJECT_DIR$/app/face-off/face-off.template.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/nav-bar/nav-bar.template.html" afterPath="$PROJECT_DIR$/app/nav-bar/nav-bar.template.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/Square-1.json" afterPath="$PROJECT_DIR$/data/Square-1.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/database-01-jul-2016.json" afterPath="$PROJECT_DIR$/data/database-01-jul-2016.json" />
     </list>
     <ignored path="cube-mash.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,13 +27,15 @@
       <file leaf-file-name="face-off.template.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/face-off/face-off.template.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="72" selection-start-line="3" selection-start-column="72" selection-end-line="3" selection-end-column="72" />
+            <state relative-caret-position="228">
+              <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -46,8 +44,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/CSS/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+            <state relative-caret-position="508">
+              <caret line="49" column="1" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -116,9 +114,9 @@
         <option value="$PROJECT_DIR$/app/stats/stats.component.js" />
         <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/nav-bar/nav-bar.template.html" />
-        <option value="$PROJECT_DIR$/app/CSS/style.css" />
         <option value="$PROJECT_DIR$/data/Square-1.json" />
         <option value="$PROJECT_DIR$/data/database-01-jul-2016.json" />
+        <option value="$PROJECT_DIR$/app/CSS/style.css" />
         <option value="$PROJECT_DIR$/app/face-off/face-off.template.html" />
       </list>
     </option>
@@ -386,12 +384,12 @@
       <workItem from="1467378289709" duration="2552000" />
       <workItem from="1467415686069" duration="2427000" />
       <workItem from="1467418922574" duration="5958000" />
-      <workItem from="1467457589778" duration="13541000" />
+      <workItem from="1467457589778" duration="14312000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85675000" />
+    <option name="totallyTimeSpent" value="86446000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="0" width="960" height="1049" extended-state="4" />
@@ -783,21 +781,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/CSS/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+        <state relative-caret-position="508">
+          <caret line="49" column="1" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/face-off/face-off.template.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="72" selection-start-line="3" selection-start-column="72" selection-end-line="3" selection-end-column="72" />
+        <state relative-caret-position="228">
+          <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
