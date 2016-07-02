@@ -3,7 +3,7 @@
 /*}*/
 
 h1, h2, h3 {
-    font-weight: bold;
+    /*font-weight: bold;*/
 }
 
 h3 {
@@ -16,11 +16,20 @@ h3 {
     /*color: #ffffff;*/
 /*}*/
 
+a, u {
+    text-decoration: none !important;
+}
+
 .heading {
     text-align: center;
     font-size: xx-large;
     margin-bottom: 0px;
+    text-decoration: none !important;
+    color: #333333!important;
+
 }
+
+
 
 .fade-on-hover {
     display: inline-block;
