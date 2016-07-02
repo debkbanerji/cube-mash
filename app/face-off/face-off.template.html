@@ -1,12 +1,10 @@
 <h1 ng-if="$ctrl.puzzle0 == null">Loading...</h1>
 <div ng-if="$ctrl.puzzle0 != null" class="row">
     <div class="col-sm-4 col-xs-12 ">
-        <div class="container-fluid btn btn-raised btn-block"
+        <div class="container-fluid btn btn-raised btn-warning btn-block"
              ng-click="$ctrl.click0()"
              style="align-content: center; width: 100%; white-space: normal">
-            <div class="panel-heading">
                 <h2>{{$ctrl.puzzle0.name}}</h2>
-            </div>
             <img id="image0"
                  ng-src="{{$ctrl.puzzle0.image_url}}"
                  class="img-responsive img-rounded"
@@ -30,7 +28,7 @@
 
 
     <div class="col-sm-4 col-xs-12">
-        <div class="container-fluid btn btn-raised btn-block"
+        <div class="container-fluid btn btn-raised btn-warning btn-block"
              ng-click="$ctrl.click1()"
              style="align-content: center; width: 100%; white-space: normal">
             <h2>{{$ctrl.puzzle1.name}}</h2>

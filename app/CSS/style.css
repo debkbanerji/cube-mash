@@ -39,7 +39,7 @@ h3 {
 }
 
 .fade-on-hover:hover, .fade-on-hover:focus, .fade-on-hover:active {
-    background-color: #19a094;
+    background-color: #ff6838;
     /*color: rgba(255,255,255,.84);*/
     color: white;
 }
