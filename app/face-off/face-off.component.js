@@ -33,7 +33,7 @@ angular.module('faceOff').component('faceOff', {
         self.skip = function () {
             refreshPuzzle0();
             refreshPuzzle1();
-        }
+        };
 
         refreshPuzzle0 = function () {
             document.getElementById("image0").src = "";

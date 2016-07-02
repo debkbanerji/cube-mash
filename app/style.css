@@ -49,3 +49,8 @@ h3 {
 .dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
     background-color: #bbbbff;
 }
+
+#versus {
+    font-size: 9vw;
+    text-align: center;
+}
