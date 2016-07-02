@@ -1,7 +1,7 @@
 <h1 ng-if="$ctrl.puzzle0 == null">Loading...</h1>
-<div class="row">
+<div ng-if="$ctrl.puzzle0 != null" class="row">
     <div class="col-md-4 col-xs-12 " ng-click="$ctrl.click0()">
-        <div class="container-fluid" style="align-content: center">
+        <div class="container-fluid btn btn-raised" style="align-content: center; width: inherit">
             <h1>{{$ctrl.puzzle0.name}}</h1>
                 <img id="image0" ng-src="{{$ctrl.puzzle0.image_url}}" class="img-responsive"  width="100%">
         </div>
@@ -14,7 +14,7 @@
     </div>
 
     <div class="col-md-4 col-xs-12" ng-click="$ctrl.click1()">
-        <div class="container-fluid" style="align-content: center">
+        <div class="container-fluid btn btn-raised" style="align-content: center; width: inherit">
             <h1>{{$ctrl.puzzle1.name}}</h1>
                 <img id="image1" ng-src="{{$ctrl.puzzle1.image_url}}" class="img-responsive"  width="100%">
         </div>
@@ -22,6 +22,6 @@
 </div>
 <div class="row" ng-if="$ctrl.puzzle0 != null">
     <div class="container-fluid" style="text-align: center">
-        <button ng-click="$ctrl.skip()"><h2>Skip</h2></button>
+        <a class="btn btn-raised btn-lg" ng-click="$ctrl.skip()"><h2>Skip</h2></a>
     </div>
 </div>

@@ -36,12 +36,20 @@ angular.module('faceOff').component('faceOff', {
         };
 
         refreshPuzzle0 = function () {
-            document.getElementById("image0").src = "";
+            try {
+                document.getElementById("image0").src = "";
+            } catch (e) {
+
+            }
             self.puzzle0 = self.puzzles[Math.floor(Math.random() * self.puzzles.length)];
         };
 
         refreshPuzzle1 = function () {
-            document.getElementById("image1").src = "";
+            try {
+                document.getElementById("image1").src = "";
+            } catch (e) {
+
+            }
             self.puzzle1 = self.puzzles[Math.floor(Math.random() * self.puzzles.length)];
         };
 
