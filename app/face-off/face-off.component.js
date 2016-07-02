@@ -41,7 +41,10 @@ angular.module('faceOff').component('faceOff', {
             } catch (e) {
 
             }
-            self.puzzle0 = self.puzzles[Math.floor(Math.random() * self.puzzles.length)];
+            self.puzzle0 = self.puzzle1;
+            while (self.puzzle0 == self.puzzle1) {
+                self.puzzle0 = self.puzzles[Math.floor(Math.random() * self.puzzles.length)];
+            }
         };
 
         refreshPuzzle1 = function () {
@@ -50,7 +53,10 @@ angular.module('faceOff').component('faceOff', {
             } catch (e) {
 
             }
-            self.puzzle1 = self.puzzles[Math.floor(Math.random() * self.puzzles.length)];
+            self.puzzle1 = self.puzzle0;
+            while (self.puzzle1 == self.puzzle0) {
+                self.puzzle1 = self.puzzles[Math.floor(Math.random() * self.puzzles.length)];
+            }
         };
 
         addWin = function (puzzle) {
