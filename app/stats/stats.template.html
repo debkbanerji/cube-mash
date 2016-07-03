@@ -1,8 +1,9 @@
 <h1 ng-if="$ctrl.puzzles.length == 0">Loading...</h1>
 <form ng-if="$ctrl.puzzles.length != 0" class="bs-component">
-    <div class="form-group label-floating">
-        <label class="control-label" for="focusedInput1">Search Puzzles</label>
-        <input class="form-control" id="focusedInput1" type="text" ng-model="$ctrl.query.name">
+    <div class="container-fluid">
+    <div class="form-group">
+        <input class="form-control" placeholder="Search Puzzles" id="focusedInput1" type="text" ng-model="$ctrl.query.name">
+    </div>
     </div>
 </form>
 <div class="panel"

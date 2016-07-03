@@ -16,11 +16,11 @@
           },
           "wins": {
             ".write": "true",
-            ".validate": "newData.isNumber()"
+            ".validate": "newData.isNumber() && newData.val()>=0"
           },
           "losses": {
             ".write": "true",
-            ".validate": "newData.isNumber()"
+            ".validate": "newData.isNumber() && newData.val()>=0"
           }
         }
       }
