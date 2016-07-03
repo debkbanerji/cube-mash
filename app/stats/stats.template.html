@@ -1,6 +1,12 @@
 <h1 ng-if="$ctrl.puzzles.length == 0">Loading...</h1>
+<form ng-if="$ctrl.puzzles.length != 0" class="bs-component">
+    <div class="form-group label-floating">
+        <label class="control-label" for="focusedInput1">Search Puzzles</label>
+        <input class="form-control" id="focusedInput1" type="text" ng-model="$ctrl.query.name">
+    </div>
+</form>
 <div class="panel"
-     ng-repeat="puzzle in $ctrl.puzzles| orderBy : [$ctrl.orderWinRate, 'wins', '-losses'] : true"
+     ng-repeat="puzzle in $ctrl.puzzles | filter:$ctrl.query | orderBy : [$ctrl.orderWinRate, 'wins', '-losses'] : true"
      style="margin: 1%">
     <div class="panel panel-inverse">
         <div class="panel-heading">
@@ -27,13 +33,13 @@
                                 <div class="container-fluid">
                                     <div class="col-sm-12 col-xs-12">
                                     <span class="label label-success"
-                                          style="float: right;">Total Wins: {{puzzle.wins}}</span>
+                                          style="float: right;">{{puzzle.wins}} Wins</span>
                                     </div>
                                 </div>
                                 <div class="container-fluid">
                                     <div class="col-sm-12 col-xs-12">
                                     <span class="label label-danger"
-                                          style="float: right">Total Losses: {{puzzle.losses}}</span>
+                                          style="float: right">{{puzzle.losses}} Losses</span>
                                     </div>
                                 </div>
                             </div>
