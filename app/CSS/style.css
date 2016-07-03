@@ -48,7 +48,7 @@ a, u {
 }
 
 .fade-on-hover:hover, .fade-on-hover:focus, .fade-on-hover:active {
-    background-color: #ff6838;
+    background-color: #5262bc;
     /*color: rgba(255,255,255,.84);*/
     color: white;
 }
@@ -73,6 +73,7 @@ a, u {
     background-color: #e4e4e4;
     /*color: rgba(255,255,255,.84);*/
     color: white;
+    text-decoration-color: white;
     cursor: pointer;
     cursor: hand;
 }

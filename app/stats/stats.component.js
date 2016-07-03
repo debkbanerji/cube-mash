@@ -17,7 +17,10 @@ angular.module('stats').component('stats', {
             });
 
         self.winRate = function(puzzle) {
-            return (100*puzzle.wins/(puzzle.losses+puzzle.wins)||0);
+            return (100*puzzle.wins/(puzzle.losses+puzzle.wins));
         };
+        self.orderWinRate = function (puzzle) {
+            return (self.winRate(puzzle) || 0);
+        }
     }]
 });
