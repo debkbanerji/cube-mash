@@ -4,15 +4,15 @@ angular.module('cubeMashApp').config(['$locationProvider', '$routeProvider',
 
         $routeProvider.when('/about', {
             template: '<about></about>'
-        }).when('/mash', {
+        }).when('/play', {
             template: '<select-puzzle-face-off></select-puzzle-face-off>'
-        }).when('/mash/:puzzleId', {
+        }).when('/play/:puzzleId', {
             template: '<face-off></face-off>'
         }).when('/stats', {
             template: '<select-puzzle-stats></select-puzzle-stats>'
         }).when('/stats/:puzzleId', {
             template: '<stats></stats>'
-        }).otherwise('/mash');
+        }).otherwise('/play');
 
         // use the HTML5 History API
         $locationProvider.html5Mode(true);

@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="86e5681b-56d4-4d1b-af6e-efecb1f7aa1d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.config.js" afterPath="$PROJECT_DIR$/app/app.config.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/nav-bar/nav-bar.template.html" afterPath="$PROJECT_DIR$/app/nav-bar/nav-bar.template.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/select-puzzle-face-off/select-puzzle-face-off.template.html" afterPath="$PROJECT_DIR$/app/select-puzzle-face-off/select-puzzle-face-off.template.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/select-puzzle-stats/select-puzzle-stats.template.html" afterPath="$PROJECT_DIR$/app/select-puzzle-stats/select-puzzle-stats.template.html" />
     </list>
     <ignored path="cube-mash.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -62,8 +60,8 @@
       <file leaf-file-name="app.config.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/app.config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+            <state relative-caret-position="238">
+              <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -83,7 +81,7 @@
         <entry file="file://$PROJECT_DIR$/app/select-puzzle-face-off/select-puzzle-face-off.template.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
+              <caret line="5" column="59" selection-start-line="5" selection-start-column="59" selection-end-line="5" selection-end-column="59" />
               <folding />
             </state>
           </provider>
@@ -162,10 +160,10 @@
         <option value="$PROJECT_DIR$/data/Firebase_Rules.json" />
         <option value="$PROJECT_DIR$/app/stats/stats.template.html" />
         <option value="$PROJECT_DIR$/app/index.html" />
-        <option value="$PROJECT_DIR$/app/app.config.js" />
         <option value="$PROJECT_DIR$/app/nav-bar/nav-bar.template.html" />
-        <option value="$PROJECT_DIR$/app/select-puzzle-face-off/select-puzzle-face-off.template.html" />
         <option value="$PROJECT_DIR$/app/select-puzzle-stats/select-puzzle-stats.template.html" />
+        <option value="$PROJECT_DIR$/app/app.config.js" />
+        <option value="$PROJECT_DIR$/app/select-puzzle-face-off/select-puzzle-face-off.template.html" />
       </list>
     </option>
   </component>
@@ -266,7 +264,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="select-puzzle-stats" />
+              <option name="myItemId" value="select-puzzle-face-off" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -400,12 +398,12 @@
       <workItem from="1467496752782" duration="13108000" />
       <workItem from="1467513615030" duration="5965000" />
       <workItem from="1467520156733" duration="588000" />
-      <workItem from="1467516766868" duration="2744000" />
+      <workItem from="1467516766868" duration="2871000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109046000" />
+    <option name="totallyTimeSpent" value="109173000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="430" width="1932" height="1056" extended-state="0" />
@@ -779,14 +777,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/select-puzzle-face-off/select-puzzle-face-off.template.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/select-puzzle-stats/select-puzzle-stats.template.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -795,10 +785,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/select-puzzle-face-off/select-puzzle-face-off.template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="59" selection-start-line="5" selection-start-column="59" selection-end-line="5" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/app.config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        <state relative-caret-position="238">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
           <folding />
         </state>
       </provider>
