@@ -23,12 +23,14 @@
                         </div>
 
                         <div class="col-xs-4" style="height: 100%; width: 50%; position: absolute; right: 0; top: 0;">
-                            <div class="row" style="position: absolute; bottom: 0">
+                            <div class="row" style="position: absolute; right: 0; bottom: 0">
                                 <div class="container-fluid">
                                     <div class="col-sm-12 col-xs-12">
                                     <span class="label label-success"
-                                          style="float: right">Total Wins: {{puzzle.wins}}</span>
+                                          style="float: right;">Total Wins: {{puzzle.wins}}</span>
                                     </div>
+                                </div>
+                                <div class="container-fluid">
                                     <div class="col-sm-12 col-xs-12">
                                     <span class="label label-danger"
                                           style="float: right">Total Losses: {{puzzle.losses}}</span>
@@ -41,7 +43,7 @@
             </div>
             <div class="row">
                 <div class="col-xs-12">
-                    <div class="progress" style="height: 1vw; margin-top: 0.5vw">
+                    <div class="progress" style="height: 8pt; margin-top: 0.5vw">
                         <div class="progress-bar progress-bar-success"
                              style="width: {{$ctrl.winRate(puzzle)}}%"></div>
                         <div class="progress-bar progress-bar-danger"
