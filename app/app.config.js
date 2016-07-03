@@ -1,28 +1,21 @@
-angular.
-module('cubeMashApp').
-config(['$locationProvider', '$routeProvider',
+angular.module('cubeMashApp').config(['$locationProvider', '$routeProvider',
     function config($locationProvider, $routeProvider) {
         $locationProvider.hashPrefix('!');
-        // $locationProvider.html5Mode(true);
 
-
-        $routeProvider.
-        when('/about', {
+        $routeProvider.when('/about', {
             template: '<about></about>'
-        }).
-        when('/mash', {
+        }).when('/mash', {
             template: '<select-puzzle-face-off></select-puzzle-face-off>'
-        }).
-        when('/mash/:puzzleId', {
+        }).when('/mash/:puzzleId', {
             template: '<face-off></face-off>'
-        }).
-        when('/stats', {
+        }).when('/stats', {
             template: '<select-puzzle-stats></select-puzzle-stats>'
-        }).
-        when('/stats/:puzzleId', {
+        }).when('/stats/:puzzleId', {
             template: '<stats></stats>'
-        }).
-        otherwise('/mash');
+        }).otherwise('/mash');
+
+        // use the HTML5 History API
+        $locationProvider.html5Mode(true);
     }
 
 ]);
