@@ -21,13 +21,15 @@ angular.module('faceOff').component('faceOff', {
         self.click0 = function () {
             addWin(self.puzzle0);
             addLoss(self.puzzle1);
-            refreshPuzzle1()
+            refreshPuzzle1();
+            refreshPuzzle0();
         };
 
         self.click1 = function () {
             addWin(self.puzzle1);
             addLoss(self.puzzle0);
-            refreshPuzzle0()
+            refreshPuzzle0();
+            refreshPuzzle1();
         };
 
         self.skip = function () {
