@@ -31,7 +31,7 @@ a, u {
 
 
 
-.fade-on-hover {
+.nav-bar-fade-on-hover {
     display: inline-block;
     vertical-align: middle;
     -webkit-transform: translateZ(0);
@@ -47,13 +47,13 @@ a, u {
     transition-property: color, background-color;
 }
 
-.fade-on-hover:hover, .fade-on-hover:focus, .fade-on-hover:active {
+.nav-bar-fade-on-hover:hover, .nav-bar-fade-on-hover:focus, .nav-bar-fade-on-hover:active {
     background-color: #5262bc;
     /*color: rgba(255,255,255,.84);*/
     color: white;
 }
 
-.fade-on-hover-main {
+.nav-bar-fade-on-hover-main {
     display: inline-block;
     vertical-align: middle;
     -webkit-transform: translateZ(0);
@@ -69,7 +69,7 @@ a, u {
     transition-property: color, background-color;
 }
 
-.fade-on-hover-main:hover, .fade-on-hover-main:focus, .fade-on-hover-main:active {
+.nav-bar-fade-on-hover-main:hover, .nav-bar-fade-on-hover-main:focus, .nav-bar-fade-on-hover-main:active {
     background-color: #e4e4e4;
     /*color: rgba(255,255,255,.84);*/
     color: white;
